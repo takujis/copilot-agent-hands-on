@@ -1,6 +1,5 @@
 # Agent Builder でエージェントを作成する
 
-> Source: `Copilot エージェント作成 ハンズオン 4月.docx` の「2. Agent Builder (Copilot Studio Lite) でエージェントを作成する」章を GitHub 向け Markdown に移行したものです。  
 > Last updated in source document: 2026-04-24
 
 この演習では、Microsoft 365 Copilot Chat 内から Agent Builder を使い、経費精算に関する QA エージェントを作成します。
