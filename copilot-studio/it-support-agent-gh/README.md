@@ -1,4 +1,4 @@
-# IT サポート エージェント
+# IT サポート エージェント (Github copilot harness)
 
 ## 概要
 
