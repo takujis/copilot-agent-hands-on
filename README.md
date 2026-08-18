@@ -1,5 +1,23 @@
-# Copilot Studio エージェント作成ハンズオン (Standard harness)
+# エージェント作成ハンズオン
 
+Agent Builder および Copilot Studio でエージェントの作成方法を学習するためのハンズオン集です。
+
+## Agent Builder
+
+- 📝 [RFP Analysis エージェント](/agent-builder/rfp-analysis-agent/README.md)
+  - Microsoft 365 Copilot の Agent Builder を使用して、RFP（提案依頼書）を分析するエージェントを作成します。
+
+## Copilot Studio
+### Github Copilot harness
+Copilot Studio で GitHub Copilot harness を利用したエージェントの作成方法を学習します。
+
+- 🖥️ [IT サポート エージェント](/copilot-studio/it-support-agent/README.md)
+  - 社内 IT に関する問い合わせに対応するエージェントを作成します。
+
+- ✈️ [出張申請チェック エージェント](/copilot-studio/travel-request-checker/README.md)
+  - 出張申請を社内規定に基づいてチェックするエージェントを作成します。
+
+### Standard Copilot harness
 Copilot Studio で Standard harness を利用したエージェントの作成方法を学習するためのハンズオン集です。
 
 - [IT サポート エージェント](/it-support-agent/README.md)
