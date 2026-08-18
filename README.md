@@ -12,19 +12,19 @@ Agent Builder および Copilot Studio でエージェントの作成方法を�
 ### Github Copilot harness
 Copilot Studio で GitHub Copilot harness を利用したエージェントの作成方法を学習します。
 
-- 🖥️ [IT サポート エージェント](/copilot-studio/it-support-agent/README.md)
+- 🖥️ [IT サポート エージェント](/copilot-studio/it-support-agent-gh/README.md)
   - 社内 IT に関する問い合わせに対応するエージェントを作成します。
 
-- ✈️ [出張申請チェック エージェント](/copilot-studio/travel-request-checker/README.md)
+- ✈️ [出張申請チェック エージェント](/copilot-studio/travel-request-checker-gh/README.md)
   - 出張申請を社内規定に基づいてチェックするエージェントを作成します。
 
 ### Standard Copilot harness
 Copilot Studio で Standard harness を利用したエージェントの作成方法を学習するためのハンズオン集です。
 
-- [IT サポート エージェント](/it-support-agent/README.md)
+- [IT サポート エージェント](/it-support-agent-sh/README.md)
   - 社内 IT に関する問い合わせに対応するエージェントを作成します。
 
-- [出張申請チェック エージェント](/travel-request-checker/README.md)
+- [出張申請チェック エージェント](/travel-request-checker-sh/README.md)
   - 出張申請を社内規定に基づいてチェックするエージェントを作成します。
 
 ## このハンズオンの活用方法
