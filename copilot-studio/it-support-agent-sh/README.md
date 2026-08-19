@@ -1,4 +1,4 @@
-# IT サポート エージェント (Srandard Harness)
+# IT サポート エージェント (Standard Harness)
 ## 概要
 このハンズオンでは、Microsoft Copilot Studio を使用して、架空の企業における社内 IT に関する問い合わせに対応するエージェントを作成します。
 
