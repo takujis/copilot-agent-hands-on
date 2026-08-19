@@ -3,7 +3,7 @@
 Power Apps を使用して、エージェントで使用するサポートチケットを管理するテーブルを作成します。
 
 > **Note**
-> この演習で使用する `SupportTicket.xlsx` をあらかじめダウンロードして、PC に保存してください (本リポジトリでは [`../assets`](../assets) フォルダーに配置しています)。
+> この演習で使用する [SupportTicket.xlsx](../assets/SupportTicket.xlsx) をあらかじめダウンロードして、PC に保存してください。
 
 ## 2.1. 環境を選択する
 
