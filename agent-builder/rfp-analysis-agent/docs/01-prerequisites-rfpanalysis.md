@@ -1,12 +1,12 @@
 # 事前準備
 
-RFP Analysis Agent のハンズオンを実施するために、事前準備を行います。
+RFP Analysis Agent の作成ハンズオンを実施するために、事前準備を行います。
 
-## 必要なライセンス
+## 前提条件
 
 このハンズオンを実施するためには、以下が必要です。
-1. Microsoft 365 Copilot を利用できるライセンスを準備します。
-2. Microsoft 365 Copilot を利用できる職場または学校アカウントを準備します。
+1. Microsoft 365 Copilot を利用できるライセンス
+2. Microsoft 365 Copilot を利用できる職場アカウント
 
 ## Microsoft 365 Copilot にアクセスする
 1. [Microsoft 365 Copilot](https://m365.cloud.microsoft/) にアクセスします。
@@ -17,15 +17,16 @@ RFP Analysis Agent のハンズオンを実施するために、事前準備を�
 
 以下のファイルをダウンロードします。
 
-### RFP サンプルを準備する
+#### ナレッジとして使用するファイルを準備する
+1. [**Proposal Review Guide.pdf**](../assets/Proposal%20Review%20Guide.pdf) をダウンロードします。
+
+#### RFP サンプルを準備する
 1. 以下の RFP サンプルのいずれか 1 つをダウンロードします。
    - [**企業版_生成AI・AIエージェント活用基盤_RFP_サンプル.pdf**](../assets/企業版_生成AI・AIエージェント活用基盤_RFP_サンプル.pdf)
    - [**官公庁版_行政事務生成AI活用環境整備_RFP_サンプル.pdf**](../assets/官公庁版_行政事務生成AI活用環境整備_RFP_サンプル.pdf)
 
-#### ナレッジとして使用するファイルを準備する
-1. [**Proposal Review Guide.pdf**](../assets/Proposal%20Review%20Guide.pdf) をダウンロードします。
 
-#### オプション演習で使用するファイルを準備する
+#### （オプション）演習で使用するファイルを準備する
 1. 使用する RFP に対応する顧客ヒアリングメモをダウンロードします。
    - 企業版 RFP を使用する場合は、[**企業版_顧客ヒアリングメモ.docx**](../assets/企業版_顧客ヒアリングメモ.docx) をダウンロードします。
    - 官公庁版 RFP を使用する場合は、[**官公庁版_顧客ヒアリングメモ.docx**](../assets/官公庁版_顧客ヒアリングメモ.docx) をダウンロードします。
