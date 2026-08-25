@@ -19,13 +19,10 @@ Copilot Studio で GitHub Copilot harness を利用したエージェントの�
   - 出張申請を社内規定に基づいてチェックするエージェントを作成します。
 
 ### Standard Copilot harness
-Copilot Studio で Standard harness を利用したエージェントの作成方法を学習するためのハンズオン集です。
+Copilot Studio で Standard harness を利用したエージェントの作成方法を学習します。
 
-- [IT サポート エージェント](/it-support-agent-sh/README.md)
+- [IT サポート エージェント](/copilot-studio/it-support-agent-sh/README.md)
   - 社内 IT に関する問い合わせに対応するエージェントを作成します。
-
-- [出張申請チェック エージェント](/travel-request-checker-sh/README.md)
-  - 出張申請を社内規定に基づいてチェックするエージェントを作成します。
 
 ## このハンズオンの活用方法
 
