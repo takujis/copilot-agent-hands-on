@@ -1,4 +1,4 @@
-# エージェント作成ハンズオン
+# Copilot Agent Hands-on Lab
 
 Agent Builder および Copilot Studio でエージェントの作成方法を学習するためのハンズオン集です。
 
