@@ -1,4 +1,4 @@
-# Dataverse テーブルを作成する
+# Support Ticket テーブルを作成する
 
 サポートチケット用の Dataverse テーブルを作成します。
 

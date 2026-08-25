@@ -21,12 +21,13 @@
 
 ### エージェント作成
 
-1. [Dataverse テーブルを作成する](docs/10-create-support-ticket-table.md)
-2. [エージェントを作成する](docs/11-create-it-support-agent.md)
-3. [エージェントにサポートチケット機能を実装する](docs/12-build-support-ticketing.md)
-4. [エージェントのインストラクションを設定する](docs/13-configure-agent-instructions.md)
-5. [マルチエージェントを構成する](docs/14-build-multi-agent.md)
-6. [エージェントを公開する](docs/20-publish-agent.md)
+1. [Support Ticket テーブルを作成する](docs/10-create-support-ticket-table.md)
+2. [IT Support Agent を作成する](docs/11-create-it-support-agent.md)
+3. [IT Support Agent にサポートチケット機能を実装する](docs/12-build-support-ticketing.md)
+4. [IT Support Agent のインストラクションを設定する](docs/13-configure-agent-instructions.md)
+5. [Device Assistant を作成してマルチエージェントを構成する](docs/14-build-multi-agent.md)
+6. [Device Assistant にデバイス交換申請機能を実装する](docs/15-build-device-replacement-feature.md)
+7. [エージェントを公開する](docs/20-publish-agent.md)
 
 ### 後作業
 
