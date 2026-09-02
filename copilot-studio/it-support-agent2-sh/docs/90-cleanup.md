@@ -39,7 +39,3 @@ https://admin.powerplatform.microsoft.com
 3. [削除] をクリックします。
 
 4. 環境名を入力し、[確認] をクリックします。
-
-> [!WARNING]
->
-> Power Platform 環境を削除すると、その環境内の Dataverse テーブル、エージェント、フローなどのリソースも削除されます。

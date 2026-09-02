@@ -83,9 +83,3 @@
     | スキーマ名 (高度なオプション) | TicketNumber |
 
 以上で、Support Ticket テーブルの作成は完了です。
-
-> [!NOTE]
->
-> 上記の手動作成以外にも、ソリューションをインポートすることで、本ハンズオンで使用する Support Ticket テーブルを準備できます。
->
-> **[こちら](../assets/it-support-base)** から、Support Ticket テーブルが含まれるソリューション (*.zip) をダウンロードできます。
