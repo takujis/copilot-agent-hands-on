@@ -18,7 +18,7 @@ https://admin.powerplatform.microsoft.com
 |---|---|
 | 種類 | 開発者 |
 | 地域 | 日本 |
-| 名前 | dev-name (あるいは任意の名前)<br>例: dev-sasaeki |
+| 名前 | dev-name (あるいは任意の名前)<br>例: dev-name |
 
 4. [既定の設定を変更する] を展開し、[Dataverse データ ストアを追加しますか?] を [はい] にし、[次へ] をクリックします。
 
