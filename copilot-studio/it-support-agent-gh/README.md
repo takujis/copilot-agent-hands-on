@@ -32,7 +32,8 @@
 1. [Dataverse テーブルを作成する](docs/10-create-table.md)
 2. [エージェントを作成する](docs/11-create-agent.md)
 3. [マルチエージェントを構成する](docs/12-build-multi-agent.md)
-4. [エージェントを公開する](docs/20-publish-agent.md)
+4. [デバイス交換承認ワークフローを作成する (オプション)](docs/13-integrate-workflow.md)
+5. [エージェントを公開する](docs/20-publish-agent.md)
 
 ### 後作業
 
