@@ -1,4 +1,4 @@
-# IT サポート エージェント (Standard harness)
+# IT サポート エージェント２ (Standard harness)
 
 ## 概要
 
